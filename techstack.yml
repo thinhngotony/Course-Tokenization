@@ -1,0 +1,186 @@
+repo_name: thinhngotony/Course-Tokenization
+report_id: c8c14557494cb83cb5d5a43ac836934b
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-27T17:20:36+00:00'
+requested_by: thinhngotony
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/yarn.lock
+  detection_source: client/yarn.lock
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.2.2
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched:
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  version: 7.1.1
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/thinhngotony/Course-Tokenization/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tony Ngô
+  last_updated_on: 2022-04-23 09:03:22.000000000 Z
